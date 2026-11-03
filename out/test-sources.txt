@@ -1,0 +1,11 @@
+src/asmquest/ui/CodeEditor.java
+src/asmquest/ui/VisualizerPanel.java
+src/asmquest/ui/GameFrame.java
+src/asmquest/AsmQuestApp.java
+src/asmquest/vm/VirtualMachine.java
+src/asmquest/vm/AsmException.java
+src/asmquest/vm/MachineState.java
+src/asmquest/model/LevelCatalog.java
+src/asmquest/model/Level.java
+test/asmquest/ui/UiSmokeTest.java
+test/asmquest/vm/VirtualMachineTest.java
